@@ -1,0 +1,28 @@
+{
+  "name": "arrays-and-objects-challenge",
+  "version": "1.0.0",
+  "description": "Kia ora and welcome! 🎉 Today, you’ll be expanding your JavaScript skills by working with **arrays** and **objects** through a series of coding challenges.",
+  "main": "arrays.js",
+  "directories": {
+    "test": "test"
+  },
+"scripts": {
+  "test": "jest",
+  "test:arrays": "jest test/arrays.test.js",
+  "test:objects": "jest test/objects.test.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NGEN-Room/Arrays-and-Objects-Challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NGEN-Room/Arrays-and-Objects-Challenge/issues"
+  },
+  "homepage": "https://github.com/NGEN-Room/Arrays-and-Objects-Challenge#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
